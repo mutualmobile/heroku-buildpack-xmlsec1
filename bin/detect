@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-echo 0
+echo "xmlsec1"
+exit 0
